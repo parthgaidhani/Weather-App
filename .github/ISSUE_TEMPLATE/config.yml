@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📚 Documentation
+    url: https://github.com/parthgaidhani/Weather-App#readme
+    about: Read the README first — most questions are answered there.
+  - name: 💬 Discussions
+    url: https://github.com/parthgaidhani/Weather-App/discussions
+    about: Ask questions & share ideas in the Discussions tab.

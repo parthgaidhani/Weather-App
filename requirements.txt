@@ -1,0 +1,56 @@
+# Core
+pandas
+numpy
+scipy
+statsmodels
+
+# Geospatial
+folium
+
+# Visualization
+matplotlib
+plotly
+seaborn
+
+# ML
+scikit-learn
+xgboost
+lightgbm
+catboost
+
+# Time-Series
+prophet
+pmdarima
+
+# Deep Learning
+tensorflow
+torch
+torchvision
+
+# Computer Vision
+opencv-python
+Pillow
+albumentations
+
+# Explainability
+shap
+lime
+
+# API & UI
+fastapi
+uvicorn[standard]
+streamlit
+python-multipart
+httpx
+
+# Data fetching
+openmeteo-requests
+requests-cache
+retry-requests
+requests
+
+# Utilities
+python-dotenv
+joblib
+tqdm
+pydantic
