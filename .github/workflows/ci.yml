@@ -12,7 +12,7 @@ permissions:
 jobs:
   lint-and-imports:
     name: Lint & import smoke test (${{ matrix.python-version }})
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     strategy:
       fail-fast: false
       matrix:
