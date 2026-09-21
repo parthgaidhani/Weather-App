@@ -2,21 +2,21 @@
 # Install with: pip install -r requirements-dev.txt
 
 # Linters & formatters
-ruff==0.6.9
-black==24.10.0
-isort==5.13.2
+ruff==0.16.8
+black==26.5.1
+isort==9.0.1
 
 # Type checking
-mypy==1.13.0
+mypy==2.3.1
 
 # Testing
-pytest==8.3.3
-pytest-cov==6.0.0
-pytest-asyncio==0.24.0
+pytest==9.1.1
+pytest-cov==7.1.0
+pytest-asyncio==1.4.0
 
 # Pre-commit hooks (optional)
-pre-commit==4.0.1
+pre-commit==4.6.2
 
 # Docs (optional)
 mkdocs==1.6.1
-mkdocs-material==9.5.49
+mkdocs-material==9.7.7
